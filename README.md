@@ -1,6 +1,6 @@
 # C3ICT:Creating the next story from the Current story and the retrieved Chapter-Intent-Chapter Triplet. 
 
-This repo contains code for C4: Creating the Next Story From the Current Story And the Retrieved Chapter-Intent-Chapter Triplet.
+This repo contains code for C3ICT:Creating the next story from the Current story and the retrieved Chapter-Intent-Chapter Triplet.
 
 ![db_img](./README_data/db.png)
 ![main_module_img](./README_data/main_module.png)
